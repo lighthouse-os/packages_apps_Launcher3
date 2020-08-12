@@ -364,7 +364,7 @@ public class MotionPauseDetector {
                         if (endPos < 0) {
                             endPos += HISTORY_SIZE;
                         }
-                        float denominator = eventTime - mHistoricTimes[endPos];
+                        long denominator = eventTime - mHistoricTimes[endPos];
                         if (denominator != 0) {
                             return (mHistoricPos[pointPos] - mHistoricPos[endPos]) / denominator;
                         }
