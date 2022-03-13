@@ -597,6 +597,7 @@
     <icon drawable="@drawable/themed_icon_quickpic" package="gallery.photos.video.quickpic.fastopenphotosvideos" />
     <icon drawable="@drawable/themed_icon_zedge" package="net.zedge.android" />
     <icon drawable="@drawable/themed_icon_simple_gallery_pro" package="com.simplemobiletools.gallery" />
+    <icon drawable="@drawable/themed_icon_camera" package="com.android.camera" />
     <icon drawable="@drawable/themed_icon_camera" package="com.googleCamera.Wichaya8" />
     <icon drawable="@drawable/themed_icon_camera" package="com.samsung.android.scan3d" />
     <icon drawable="@drawable/themed_icon_camera" package="com.samsung.android.biometrics.service" />
